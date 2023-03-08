@@ -1,4 +1,4 @@
-package orudoi.FindPathes.models;
+package orudoi.find_pathes.models;
 
 /*@author Oleg Rudoi
  *@version 1.0

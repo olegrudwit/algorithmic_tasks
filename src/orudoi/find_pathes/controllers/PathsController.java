@@ -1,12 +1,12 @@
-package orudoi.FindPathes.controllers;
+package orudoi.find_pathes.controllers;
 
 /*@author Oleg Rudoi
  *@version 1.0
  *@date 07.03.2022
  */
 
-import orudoi.FindPathes.models.City;
-import orudoi.FindPathes.views.PathsView;
+import orudoi.find_pathes.models.City;
+import orudoi.find_pathes.views.PathsView;
 
 public class PathsController {
     City model;

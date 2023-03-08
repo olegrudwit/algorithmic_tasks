@@ -1,4 +1,4 @@
-package orudoi.Factorial;
+package orudoi.factorial;
 /*
 @author Oleg Rudoi
 @version 1.0

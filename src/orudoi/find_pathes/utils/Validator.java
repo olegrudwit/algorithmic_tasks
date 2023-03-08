@@ -1,4 +1,4 @@
-package orudoi.FindPathes.utils;
+package orudoi.find_pathes.utils;
 
 /*@author Oleg Rudoi
  *@version 1.0

@@ -1,4 +1,4 @@
-package orudoi.ParenthesisPairs;
+package orudoi.parenthesis_pairs;
 /*
 @author Oleg Rudoi
 @version 1.0

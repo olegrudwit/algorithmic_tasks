@@ -1,13 +1,13 @@
-package orudoi.FindPathes.views;
+package orudoi.find_pathes.views;
 
 /*@author Oleg Rudoi
  *@version 1.0
  *@date 07.03.2022
  */
 
-import orudoi.FindPathes.models.CitiesGraph;
-import orudoi.FindPathes.models.City;
-import orudoi.FindPathes.utils.Validator;
+import orudoi.find_pathes.models.CitiesGraph;
+import orudoi.find_pathes.models.City;
+import orudoi.find_pathes.utils.Validator;
 
 import java.util.Scanner;
 
